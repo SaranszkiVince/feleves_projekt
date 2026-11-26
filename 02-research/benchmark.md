@@ -34,3 +34,16 @@ A World atlas a Culture Crossingal ellentétben egyes kontinenseknek is külön 
 
 Mivel ezek kevéssé ismert weboldalak, nem lehet róluk olyan módon értékelést találni, mint egy applikációról lehetne. Egyéb közösségi oldala csak a World atlasnak van (Flipboard, Facebook, Twitter, Pinterest, Linkedin), és ezeken a weboldalakon sem lehet magát az oldalt negatívan értékelni, így csak a követések és kedvencnek jelölések láthatóak. Negatív értékelések hiányában nem lehet ezekről a weboldalakról könnyen felhasználói értékeléseket találni.
 
+Minták, amiket átveszek: 
+- A térkép alakú gombokat. Már ezen weboldalak megtalálása előtt is így terveztem, de így látva őket működésben még jobban meggyőzött, hogy ezt így szeretném.
+- A térképen kívüli egyébb gombokat nem képekkel jelölni (avagy nincsenek képek amik más oldalra linkelnek), csak szövegesen/buborékban.
+- Mind a három oldalon van egy "About" szekció, ami leírja az alapítvány vagy a weboldal célját.
+
+Dolgok, amiket egyik sem old meg: 
+- A célországról szóló infókat nem lehet egy kattintással/koppintással elérni. Az összes oldalon minimum 2 kattintás elérni a célországot, legyen az lenyíló menü vagy extra oldalak miatt. Mivel az én oldalam csak kontinensenként egy oldalt tartalmazhat, a weboldal betöltését követően az infókat egy kattintással is el lehet majd érni.
+- A kapott információt nem lehet értékelni az oldalon se kommentben, sem akár csak egy lájkkal. Ezt a projekt scope-ja miatt én sem tudom megoldani.
+- A három közül egyik oldal sem említi meg a Föld összes országát. A projektem miatt ezt én sem valószínű, hogy meg tudom oldani.
+- A három közül egy sem elérhető native-an más nyelven, mint angolul.
+
+
+- A 3 oldal közül mindegyik szögletes design-nal rendelkezik. Ez nem feltétlen baj, de én szeretnék néhány görbét is beletenni a saját oldalamba.
