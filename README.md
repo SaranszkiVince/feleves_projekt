@@ -1,4 +1,4 @@
-# <Az app neve>: <A weboldalam bizonyos orságokról ad illem szabályokat illetve egyébb tudnivalókat, összegezve és válogatva.>
+# <Az app neve>: <A weboldalam bizonyos országokról ad illemszabályokat illetve egyébb tudnivalókat, összegezve és válogatva.>
 
 Hallgató: <Sáránszki Vince Szeráf>  ·  Platform: <reszponzív web>
 Figma tervfájl: <link, "anyone with the link can view">
