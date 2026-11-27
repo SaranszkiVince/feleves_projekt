@@ -4,7 +4,7 @@ Hallgató: Sáránszki Vince Szeráf
 
 Platform: reszponzív web
 
-Figma tervfájl: link, "anyone with the link can view"
+Figma tervfájl: https://www.figma.com/board/lcroBlktv64l89N0Qmso2h/AtlasTrivia?node-id=0-1&t=2FnMgqPc96s8vUl6-1
 
 FigJam kutatási tábla: link, "anyone with the link can view"
 
